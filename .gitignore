@@ -5,6 +5,10 @@ screenshots/
 __pycache__/
 .DS_Store
 
+.env
+data/out/
+__pycache__/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

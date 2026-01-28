@@ -1,3 +1,10 @@
 moviepy
 imageio
 pillow
+pillow
+opencv-python
+pytesseract
+python-dotenv
+requests
+pydantic
+tqdm
