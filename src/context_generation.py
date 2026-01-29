@@ -1,6 +1,6 @@
 print("MAIN FILE LOADED")
 
-# src/main.py
+# src/context_generation.py
 import json
 from pathlib import Path
 from tqdm import tqdm
