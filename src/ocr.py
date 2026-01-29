@@ -1,3 +1,4 @@
+#src/ocr.py
 from dataclasses import dataclass
 from PIL import Image
 import pytesseract

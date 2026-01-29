@@ -6,7 +6,7 @@ from pathlib import Path
 from tqdm import tqdm
 
 from src.ocr import ocr_image
-from src.prompt import build_prompt
+from src.context_prompt import build_prompt
 from src.llm_define import LLMClient
 
 
